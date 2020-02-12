@@ -1,3 +1,6 @@
+.DS_Store
+
+
 # Compiled extensionless executable files in /src/*/
 # This stanza must precede wildcard patterns below!
 /src/*/*
@@ -53,7 +56,6 @@ GSYMS
 
 # some weird thing that MacOs creates.
 *.dSYM
-.DS_Store
 
 # Windows executable, symbol and some weird files.
 *.exe
