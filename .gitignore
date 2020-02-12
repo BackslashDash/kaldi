@@ -53,7 +53,7 @@ GSYMS
 
 # some weird thing that MacOs creates.
 *.dSYM
-*.DS_Store
+.DS_Store
 
 # Windows executable, symbol and some weird files.
 *.exe
